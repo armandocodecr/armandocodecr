@@ -20,5 +20,5 @@
   <h1>⚡ Contáctame</h1>
   <li>Puedes ver un poco lo que publico en mi <a href="https://twitter.com/CodeArmando">Twitter</a> ✍</li>
   <li>Puedes ver un poco sobre contenido que hago en <a href="https://www.tiktok.com/@armandocode">TikTok</a> 🎥</li>
-  <li>Para ámbitos profesionales me pueden encontrar también en <a href="https://www.linkedin.com/in/armando-murillo/">LinkedIn</a> 💼</li>
+  <li>Para ámbitos profesionales me puedes encontrar también en <a href="https://www.linkedin.com/in/armando-murillo/">LinkedIn</a> 💼</li>
 </div>

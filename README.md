@@ -9,9 +9,9 @@
 
 <div>
   <h1>👨‍💻 Habilidades</h1>
-  <h5>° 👁️ HTML, CSS</h5>
-  <h5>° ⚙️ TypeScript, React, NextJS</h5>
-  <h5>° 💽 NodeJS, MongoDB, SQL, Docker</h5>
+  <li>👁️ HTML, CSS</li>
+  <li>⚙️ TypeScript, React, NextJS</li>
+  <li>💽 NodeJS, MongoDB, SQL, Docker</il>
 </div>
 
 <hr />

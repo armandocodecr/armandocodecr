@@ -21,4 +21,5 @@
   <li>Puedes ver un poco lo que publico en mi <a href="https://twitter.com/CodeArmando">Twitter</a> ✍</li>
   <li>Puedes ver un poco sobre contenido que hago en <a href="https://www.tiktok.com/@armandocode">TikTok</a> 🎥</li>
   <li>Para ámbitos profesionales me puedes encontrar también en <a href="https://www.linkedin.com/in/armando-murillo/">LinkedIn</a> 💼</li>
+  <li>Subo contenido de programación también en mi cuenta de Instagram <a href="[https://www.linkedin.com/in/armando-murillo/](https://www.instagram.com/armandocodecr/?hl=es)">LinkedIn</a> 📷</li>
 </div>

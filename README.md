@@ -10,8 +10,10 @@
 <div>
   <h1>👨‍💻 Habilidades</h1>
   <li>👁️ HTML, CSS</li>
-  <li>⚙️ TypeScript, React, NextJS</li>
+  <li>⚙️ JavaScript, TypeScript, React, NextJS</li>
   <li>💽 NodeJS, MongoDB, SQL, Docker</il>
+  <li>🔨 Git, GitHub</il>
+  <li>🙋‍♂️ SCRUM</il>
 </div>
 
 <hr />

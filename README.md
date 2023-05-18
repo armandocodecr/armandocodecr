@@ -7,14 +7,12 @@
 
 <hr />
 
-<div>
-  <h1>👨‍💻 Habilidades</h1>
-  <li>👁️ [HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white), [TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)</li>
+  <h1>👨‍💻 Conocimientos</h1>
+  👁️ [HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white), [TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   <li>⚙️ JavaScript, TypeScript, React, NextJS</li>
   <li>💽 NodeJS, MongoDB, SQL, Docker</il>
   <li>🔨 Git, GitHub</il>
   <li>🙋‍♂️ SCRUM</il>
-</div>
 
 <hr />
 

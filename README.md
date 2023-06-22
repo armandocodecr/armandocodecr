@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Armando Murillo</h1>
-<h3 align="center">**Actualmente estoy por terminar mi carrera como *Ing. Informática*, en la Universidad Hispanoamericana. E conocido sobre el mundo del Frontend y Backend, pero me e enfocado sobre todo en el área del Frontend. Durante estos más 3 años de carrera e aprendido mucho sobre la informática, y dirección de proyectos, como metodologías SCRUM. Soy una persona bastante autodidacta, y gracias a eso e podido aprender sobre el área que más me apasiona, el Desarrollo Web 👨‍💻**</h3>
+<h3 align="center">Actualmente estoy por terminar mi carrera como *Ing. Informática*, en la Universidad Hispanoamericana. E conocido sobre el mundo del Frontend y Backend, pero me e enfocado sobre todo en el área del Frontend. Durante estos más 3 años de carrera e aprendido mucho sobre la informática, y dirección de proyectos, como metodologías SCRUM. Soy una persona bastante autodidacta, y gracias a eso e podido aprender sobre el área que más me apasiona, el Desarrollo Web 👨‍💻</h3>
 
 - 🌱 Constantemente aprendo y me actualizo en todo lo que tenga que ver con **tecnología, y desarrollo web**
 - 👨‍💻 Mis mejores proyectos los puedes encontrar en https://armando-murillo.vercel.app/

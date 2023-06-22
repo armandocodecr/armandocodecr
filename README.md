@@ -7,7 +7,7 @@ Actualmente estoy por terminar mi carrera como **Ing. Informática**, en la Uni
 - 🌱 Constantemente aprendo y me actualizo en todo lo que tenga que ver con **tecnología, y desarrollo web**
 - 👨‍💻 Mis mejores proyectos los puedes encontrar en ->  https://armando-murillo.vercel.app/
 - 📝 Escribo artículos sobre el mundo del desarrollo de software -> https://blog-armandocode.vercel.app/
-- 📫 Puedes contactarme por **[armando.cr.murillo@gmail.com](mailto:armando.cr.murillo@gmail.com)**
+- 📫 Puedes contactarme por mi correo -> **[armando.cr.murillo@gmail.com](mailto:armando.cr.murillo@gmail.com)**
 
 <h3 align="left">Encuentrame en:</h3>
 <p align="left">

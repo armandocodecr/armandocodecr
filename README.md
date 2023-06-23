@@ -23,4 +23,4 @@ Actualmente estoy por terminar mi carrera como **Ing. Informática**, en la Uni
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=armandocodecr&show_icons=true&theme=dark)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armandocodecr&show_icons=true&locale=en&layout=compact" alt="armandocodecr" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armandocodecr&show_icons=true&locale=es&layout=compact&theme=dark" alt="armandocodecr" /></p>

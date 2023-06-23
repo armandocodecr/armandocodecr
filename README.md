@@ -22,3 +22,5 @@ Actualmente estoy por terminar mi carrera como **Ing. Informática**, en la Uni
  **⭐  Mis estadísticas de Github** <img height="40px" src="https://github.com/images/mona-whisper.gif">
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=armandocodecr&show_icons=true&theme=dark)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armandocodecr&show_icons=true&locale=en&layout=compact" alt="armandocodecr" /></p>

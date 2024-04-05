@@ -1,7 +1,8 @@
 # Hola! me llamo Armando Murillo<img height="80px" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png">
 
 ### Un poco sobre mi 🙋‍♂️
-Actualmente estoy por terminar mi carrera como **Ing. Informática**, en la Universidad Hispanoamericana. E conocido sobre el mundo del Frontend y Backend, pero me e enfocado sobre todo en el área del Frontend. Durante más de 3 años de carrera e aprendido mucho sobre la informática y dirección de proyectos con metodologías como SCRUM. Soy una persona bastante autodidacta, y gracias a eso e podido aprender sobre el área que más me apasiona, el Desarrollo Web👨‍💻 
+ Tengo 22 años. Soy de Costa Rica. Desde que era pequeño la tecnología y los computadores siempre me han llamado la atención. Hoy en día, después de estar años preparandome, 
+ estoy viviendo mis primeras experiencias profesionales como <em style={{ color: "#FACC15" }}>Desarrollador de Software</em>
 
 - 🌱 Constantemente aprendo y me actualizo en todo lo que tenga que ver con **tecnología, y desarrollo web**
 - 👨‍💻 Mis mejores proyectos los puedes encontrar en ->  https://armando-murillo.vercel.app/

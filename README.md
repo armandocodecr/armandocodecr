@@ -2,7 +2,13 @@
 
 ### Un poco sobre mi 🙋‍♂️
  Tengo 22 años. Soy de Costa Rica. Desde que era pequeño la tecnología y los computadores siempre me han llamado la atención. Hoy en día, después de estar años preparandome, 
- estoy viviendo mis primeras experiencias profesionales como <em style={{ color: "#FACC15" }}>Desarrollador de Software</em>
+ estoy viviendo mis primeras experiencias profesionales como Desarrollador de Software.
+
+ Personalmente, soy una persona al que le sastiface ser resoluctivo. Lo cual hace que me genere mucha sastifacción ver cómo mis aplicaciones reducen la carga de trabajo de 
+ distintas áreas de la empresa a la cual trabajo actualmente.
+
+ Una de mis mayores virtudes es que soy una persona que siempre busca adaptarse a distintas situaciones o retos que se presenten. Soy capáz de aprender y resolver lo que me proponga por mi propia cuenta, ya que para mi el aprendizaje constante es una de las capacidades 
+ más necesarias para crecer y ser valioso dentro de la industria del Desarrollador de Software.
 
 - 🌱 Constantemente aprendo y me actualizo en todo lo que tenga que ver con **tecnología, y desarrollo web**
 - 👨‍💻 Mis mejores proyectos los puedes encontrar en ->  https://armando-murillo.vercel.app/

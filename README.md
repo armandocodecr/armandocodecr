@@ -1,6 +1,6 @@
 # Hello! I'm Armando Murillo <img height="80px" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png">
 
-### A bit about me 🙋‍♂️
+### About me 🙋‍♂️
 I am 22 years old. I am from Costa Rica. Since I was a child, technology and computers have always fascinated me. Today, after years of preparation, I am experiencing my first professional moments as a Software Developer.
 
 Personally, I am someone who finds satisfaction in being resourceful. This makes me very pleased to see how my applications reduce the workload in various areas of the company I currently work for.

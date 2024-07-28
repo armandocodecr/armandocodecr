@@ -1,4 +1,10 @@
-# Hello! I'm Armando Murillo <img height="80px" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# Hello! I'm Armando Murillo <img height="40px" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png">
+
+<br />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&size=25&duration=2000&pause=1000&color=F6F72C&width=435&lines=Full-Stack+Developer;Contributor+to+open+source+projects;Growing+as+a+Web3+developer+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 ### About me 🙋‍♂️
 I am 22 years old. I am from Costa Rica. Since I was a child, technology and computers have always fascinated me. Today, after years of preparation, I am experiencing my first professional moments as a Software Developer.

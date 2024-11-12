@@ -7,11 +7,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&size=25&duration=2000&pause=1000&color=F6F72C&width=435&lines=Full-Stack+Developer;Contributor+to+open+source+projects;Growing+as+a+Web3+developer+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 ### About me 🙋‍♂️
-I am 22 years old. I am from Costa Rica. Since I was a child, technology and computers have always fascinated me. Today, after years of preparation, I am experiencing my first professional moments as a Software Developer.
+I am a 22-year-old Full Stack Developer from Costa Rica with over a year of professional experience. My journey in software development started from a deep-seated curiosity about technology, which has now evolved into a passion for building impactful solutions.
 
-Personally, I am someone who finds satisfaction in being resourceful. This makes me very pleased to see how my applications reduce the workload in various areas of the company I currently work for.
+Currently, I am the Co-Founder of Trustless Work, a rapidly growing project where we’re pushing the boundaries of what’s possible in our field. My work not only involves hands-on development but also overseeing the strategic growth of our platform, allowing me to blend my technical expertise with a broader vision for innovation and scalability.
 
-One of my greatest virtues is that I always seek to adapt to different situations or challenges that arise. I am capable of learning and solving whatever I set my mind to on my own, because for me, constant learning is one of the most necessary skills to grow and be valuable within the Software Development industry.
+One of my core strengths is adaptability, which has proven invaluable as I navigate complex challenges, both in technical projects and in co-founding a startup. I take pride in my resourcefulness and dedication to continuous learning, qualities that have helped me build solutions that streamline processes, enhance productivity, and support the growth of my company. For me, software development is more than just a career—it’s an ever-evolving journey of learning and problem-solving.
 
 - 🌱 I am constantly learning and updating myself on everything related to **technology and web development**
 - 👨‍💻 You can find my best projects at -> [https://armando-murillo.vercel.app/](https://armando-murillo.vercel.app/)

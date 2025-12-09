@@ -4,7 +4,7 @@
 
 <br />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&size=25&duration=2000&pause=1000&color=F6F72C&width=435&lines=Full-Stack+Developer;Contributor+to+open+source+projects;Growing+as+a+Web3+developer+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=4000&pause=1000&color=F7F000&width=435&lines=Full+Stack+Developer;Contributor+To+Open+Source+Projects;Web3+Developer" alt="Typing SVG" /></a>
 
 ### About me 🙋‍♂️
 I am a 23-year-old Full Stack Developer from Costa Rica with over a year of professional experience. My journey in software development started from a deep-seated curiosity about technology, which has now evolved into a passion for building impactful solutions.

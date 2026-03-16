@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=4000&pause=1000&color=F7F000&width=435&lines=Full+Stack+Developer;Contributor+To+Open+Source+Projects;Web3+Developer" alt="Typing SVG" /></a>
 
 ### About me 🙋‍♂️
-I am a 23-year-old Full Stack Developer from Costa Rica with over a year of professional experience. My journey in software development started from a deep-seated curiosity about technology, which has now evolved into a passion for building impactful solutions.
+I am a 24 year old Full Stack Developer from Costa Rica with over a year of professional experience. My journey in software development started from a deep-seated curiosity about technology, which has now evolved into a passion for building impactful solutions.
 
 Currently, I am the Co-Founder of Trustless Work, a rapidly growing project where we’re pushing the boundaries of what’s possible in our field. My work not only involves hands-on development but also overseeing the strategic growth of our platform, allowing me to blend my technical expertise with a broader vision for innovation and scalability.
 
